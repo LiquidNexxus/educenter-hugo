@@ -4,6 +4,9 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: document
+  path: doc
+  label: DOCUMENT
 - type: directory
   path: directory
   label: DIRECTORY
@@ -11,10 +14,6 @@ sections:
   match: "**/*"
   templates:
   - new-page
-- type: document
-  path: doc
-  label: DOCUMENT
-  match: "**/*"
 - type: heading
   label: HEADING
 - type: heading
