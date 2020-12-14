@@ -1,10 +1,10 @@
 ---
 title: Lucas Allen
-bg_image: images/backgrounds/page-title.jpg
+bg_image: "/images/footer-2-3d-ln2x-squares.png"
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
   nostrud.
-image: images/teachers/teacher-1.jpg
+image: "/images/luca-allen-image-new-2019.jpg"
 course: Photography
 bio: Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur
   ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio,
